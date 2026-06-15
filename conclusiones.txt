@@ -1,5 +1,0 @@
-Hallazgos:
-- Flujo E2E automatizado.
-- Login, carrito y checkout validados.
-- Confirmacion final verificada.
-- Proyecto apto para integracion CI/CD.
